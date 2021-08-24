@@ -1,0 +1,3 @@
+kazono kazono.headless.keytab
+kafka/localhost kafka.service.keytab
+spark/localhost spark.service.keytab
